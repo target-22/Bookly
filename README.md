@@ -1,4 +1,4 @@
-# bookly
+# Bookly
 
 "Bookly" is a mobile application developed using Flutter and Dart,
 designed to provide users access to a vast library of books. The app
